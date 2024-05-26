@@ -1,0 +1,152 @@
+.home .rectangle-4 {
+    background: #061A40;
+    position: absolute;
+    left: 50%;
+    top: 253px;
+    translate: -50% 0;
+    width: 400px;
+    height: 46.5px;
+  }
+  .home .group-3 {
+    border: 1px solid #000000;
+    background: #D9D9D9;
+    position: relative;
+    margin-right: 68px;
+    display: flex;
+    padding: 253px 0 0.5px 0;
+    width: 400px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .home .group-4 {
+    border: 1px solid #000000;
+    background-image: url('D:\DEWA\Kuliah\Semester 8 (Skripsi)\Website\asset\Screenshot 2024-05-26 180301.png') 50% / cover no-repeat;
+    position: relative;
+    display: flex;
+    padding: 268px 0 8px 0;
+    width: 400px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .home .image-1 {
+    background-image: url('D:\DEWA\Kuliah\Semester 8 (Skripsi)\Website\asset\Screenshot 2024-05-26 180133.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    translate: -50% 0;
+    width: 400px;
+    height: 268px;
+  }
+  .home .container {
+    background: #061A40;
+    position: relative;
+    display: flex;
+    padding: 15px 0 7.5px 0;
+    width: 400px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .home {
+    background: #B9D6F2;
+    display: flex;
+    flex-direction: row;
+    padding: 49px 0 0 52px;
+    width: 1440px 1024px;
+    box-sizing: border-box;
+  }
+  .home .menara-hanoi {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .home .maze-game {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFEFE;
+  }
+
+  .menara-hanoi .group-1 {
+    position: relative;
+    display: flex;
+    padding: 0 25px 0 5px;
+    height: 400px;
+    box-sizing: border-box;
+  }
+  .menara-hanoi {
+    background: #B9D6F2;
+    display: flex;
+    flex-direction: row;
+    padding: 49px 52px 0 59px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .menara-hanoi .rectangle-1 {
+    border: 1px solid #000000;
+    background: url('D:\DEWA\Kuliah\Semester 8 (Skripsi)\Website\asset\Screenshot 2024-05-26 180133.png');
+    margin-right: 49px;
+    width: 500px;
+    height: 400px;
+  }
+  .menara-hanoi .rectangle-2 {
+    border: 1px solid #000000;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+  }
+  .menara-hanoi .kalian-diminta-memindahkan-cakram-dari-tiang-pertama-ke-tiang-ketiga-cara-bermain-setiap-kali-memindah-cakram-hanyadiperbolehkan-mengangkatsatu-cakram-setiap-cakram-yanglebih-besar-tidak-boleh-diletakkan-di-atas-cakram-yanglebih-kecil {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+
+  .maze-game .group-2 {
+    position: relative;
+    margin-bottom: 30px;
+    display: flex;
+    padding: 0 12.8px 0 5px;
+    height: 400px;
+    box-sizing: border-box;
+  }
+  .maze-game .kalian-diminta-untuk-mengumpulkan-poin-yang-terbesar-dari-labirin-yang-dibuat-cara-bermain-pemain-hanya-bisa-bergerak-ke-bawah-dan-ke-kanan-gunakan-key-suntuk-ke-bawah-dan-key-duntuk-ke-kanan-jika-total-angka-yang-dikumpulkan-adalah-angka-terbesar-warna-tulisan-akan-berubah-dari-merah-menjadi-hijau {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+  }
+  .maze-game .rectangle-2 {
+    border: 1px solid #000000;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+  }
+  .maze-game {
+    background: #B9D6F2;
+    display: flex;
+    flex-direction: row;
+    padding: 49px 56px 0 115px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .maze-game .rectangle-1 {
+    border: 1px solid #000000;
+    background: url('D:\DEWA\Kuliah\Semester 8 (Skripsi)\Website\asset\Screenshot 2024-05-26 180301.png');
+    margin-right: 79px;
+    width: 410px;
+    height: 430px;
+  }
